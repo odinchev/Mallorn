@@ -9,6 +9,15 @@
 
 > "The standard 'Healthy' status is often a lie. Mallorn looks at the raw physics of the drive to tell you the truth."
 
+## 🚀 Download & Install
+
+**[Download for Windows (v1.0)](https://github.com/YOUR_USERNAME/Lightspire-Mallorn/releases/latest/download/MallornAI.zip)**
+
+1.  Download the ZIP file.
+2.  Extract the folder to your desktop or program files.
+3.  Run `MallornAI.exe`.
+    *   *Note: No installation required. Runs as a portable app.*
+
 ---
 
 ## 🧠 The AI Core
@@ -60,6 +69,19 @@ Switch themes instantly without restarting. Includes:
 * **Lothlórien:** Forest greens and ancient gold.
 * **Valinor:** High-contrast light mode (White & Gold).
 
+## 🎨 Visual Customization
+Mallorn features a dynamic theme engine. Users can switch styles instantly to match their OS or setup.
+
+| **Mallorn (Default)** | **Valinor (Light Mode)** |
+|:---:|:---:|
+| ![Mallorn Theme](assets/theme-mallorn.png) | ![Valinor Theme](assets/theme-valinor.png) |
+
+| **Isengard (Critical)** | **Lothlórien (Forest)** |
+|:---:|:---:|
+| ![Isengard Theme](assets/theme-isengard.png) | ![Lothlorien Theme](assets/theme-lothlorien.png) |
+
+### Settings & Configuration
+![Settings UI](assets/ui-settings.png)
 ---
 
 ## 🛠️ Technical Stack
