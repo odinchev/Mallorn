@@ -13,10 +13,9 @@
 
 **[Download for Windows (v1.0)](https://github.com/YOUR_USERNAME/Lightspire-Mallorn/releases/latest/download/MallornAI.zip)**
 
-1.  Download the ZIP file.
-2.  Extract the folder to your desktop or program files.
+1.  Download the Mallorn_Setup.exe file.
+2.  Run the Mallorn_Setup.exe file.
 3.  Run `MallornAI.exe`.
-    *   *Note: No installation required. Runs as a portable app.*
 
 ---
 
@@ -109,3 +108,4 @@ This application bundles **Smartmontools** (`smartctl`), which is free software 
 ---
 
 **Mallorn Sentinel © 2026. All Rights Reserved.**
+
